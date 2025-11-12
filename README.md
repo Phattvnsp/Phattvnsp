@@ -3,7 +3,7 @@
 <p align="center">
 <img width="750" height="299" alt="Hello" src="https://github.com/user-attachments/assets/8d6c9c49-7666-405c-a8d5-85a6fbef57d9" />
 </p>
-<p align="center">ハーイ~、久しぶりね!</p>
+<p align="center">ハーイ〜、金貨ぱくぱく、スタート〜</p>
 
 ## <p align="left">🎯 Mission</p>
 - 🛠️ Learning by doing
