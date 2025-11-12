@@ -30,6 +30,12 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
+## <p align="center">Quote of the day ♭</p>
+_<p align="center">"We're just one of those kids who have made it this far in life."</p>_
+_<p align="center">"Don't worry about doing it well, just do it, live to the fullest."</p>_
+_<p align="center">"You can't go back and change the past but you can try to be better."</p>_
+_<p align="center">"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</p>_
+
 ## <p align="center">Thank you ♪</p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3e47a296-8099-49c4-a9d9-c761c06fe721" />
