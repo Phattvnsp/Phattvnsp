@@ -4,6 +4,7 @@
 <img width="750" height="299" alt="Hello" src="https://github.com/user-attachments/assets/8d6c9c49-7666-405c-a8d5-85a6fbef57d9" />
 </p>
 <p align="center">ハーイ〜、金貨ぱくぱく、スタート〜</p>
+<p align="center">My name's Phatt. I'm a computer engineering student, based in Thailand.</p>
 
 ## <p align="left">🎯 Mission</p>
 - 🛠️ Learning by doing
