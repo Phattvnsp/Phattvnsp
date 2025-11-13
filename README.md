@@ -5,6 +5,7 @@
 </p>
 <p align="center">ハーイ〜、金貨ぱくぱく、スタート〜</p>
 <p align="center">My name's Phatt. I'm a computer engineering student, based in Thailand.</p>
+<p align="center">Contact me: 67991018@kmitl.ac.th | phattharaphon.a70@gmail.com</p>
 
 ## <p align="left">🎯 Mission</p>
 - 🛠️ Learning by doing
